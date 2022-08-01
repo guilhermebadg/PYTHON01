@@ -1,4 +1,4 @@
-# RPA - AUTOMAÇÃO DE PROCESSOS E SISTEMAS COM PYTHON
+# AUTOMAÇÃO DE PROCESSOS E SISTEMAS COM PYTHON
 
 Atribuições da aula 01:
 - Automação de Processos e Interface Gráfica (utilizando as bibliotecas PyAutoGUI, PyperClip e Pandas);
